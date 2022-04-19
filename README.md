@@ -53,5 +53,5 @@ Kalian bisa mengakses htmlnya dengan klik disamping [Click Here](lab6_css_framew
 Berikut adalah hasil final dari tugas praktikum 6 Lab6Web<br>
 ![Screenshot_22.png](Pic/Screenshot_22.png)<br>
 
-#### By: Bangkit Akbar Anggara - 312010148 - TI.20.B.1
 #### Cukup Sekian Terimakasih
+#### By: Bangkit Akbar Anggara - 312010148 - TI.20.B.1
