@@ -1,17 +1,17 @@
 # Lab6Web
-Nama  : Bangkit Akbar Anggara
-NIM   : 312010148
-Kelas : TI.20.B.1
+Nama  : Bangkit Akbar Anggara<br>
+NIM   : 312010148<br>
+Kelas : TI.20.B.1<br>
 
 # Tugas
 Berikut adalah tugas praktikum 6 yang dimana kita menggunakan Twitter Bootstrap untuk meyerupai seperti tampilan berikut<br>
 ![Screenshot_20.png](Pic/Screenshot_20.png)
 
 # Pengerjaan
-1. Hal pertama yang harus kalian lakukan adalah membuat folder lab6Web didalamnya harus terdapat 2 folder lagi yaitu Pictures untuk menyimpan gambar atau hasil screenshot dan lab6_css_framework untuk folder bootstrap, html, dan cssnya.<br>
+1. Hal pertama yang harus kalian lakukan adalah membuat folder Lab6Web didalamnya harus terdapat 2 folder lagi yaitu Pictures untuk menyimpan gambar atau hasil screenshot dan Lab6_css_framework untuk folder bootstrap, html, dan cssnya.<br>
 2. Selanjutnya mendownload bootstrap di <i>getbootstrap.com</i> atau klik disamping [Click Here](https://getbootstrap.com/)<br>
-3. Setelah kalian download kalian extract rar atau zipnya, Setelah kalian extract pindahkan folder bootstrap kedalam lab6_css_framework yang tadi kita buat<br>
-4. Selanjutnya kita akan membuat htmlnya berikut dibawah ini adalah awal yang harus kalian buat, pastikan html dan css didalam folder lab6_css_framework bersama dengan folder bootstrap<br>
+3. Setelah kalian download kalian extract rar atau zipnya, Setelah kalian extract pindahkan folder bootstrap kedalam Lab6_css_framework yang tadi kita buat<br>
+4. Selanjutnya kita akan membuat htmlnya berikut dibawah ini adalah awal yang harus kalian buat, pastikan html dan css didalam folder Lab6_css_framework bersama dengan folder bootstrap<br>
    ![Screenshot_1.png](Pic/Screenshot_1.png)<br>
    ![Screenshot_21.png](Pic/Screenshot_21.png)<br>
 5. Setelah itu kita tambahkan header dan juga navbarnya berikut adalah syntax yang harus kalian masukkan dibagian bawah body<br>
@@ -49,7 +49,7 @@ Berikut adalah tugas praktikum 6 yang dimana kita menggunakan Twitter Bootstrap 
    Maka hasilnya akan menjadi seperti berikut ini<br>
    ![Screenshot_19.png](Pic/Screenshot_19.png)<br>
    
-Kalian bisa mengakses htmlnya dengan klik disamping [Click Here](lab6_css_framework/layout_sederhana.html) dan disamping untuk cssnya [Click Here](lab6_css_framework/style.css)<br>
+Kalian bisa mengakses htmlnya dengan klik disamping [Click Here](Lab6_css_framework/layout_sederhana.html) dan disamping untuk cssnya [Click Here](Lab6_css_framework/style.css)<br>
 Berikut adalah hasil final dari tugas praktikum 6 Lab6Web<br>
 ![Screenshot_22.png](Pic/Screenshot_22.png)<br>
 
