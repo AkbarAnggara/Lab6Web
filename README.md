@@ -49,7 +49,7 @@ Berikut adalah tugas praktikum 6 yang dimana kita menggunakan Twitter Bootstrap 
    Maka hasilnya akan menjadi seperti berikut ini<br>
    ![Screenshot_19.png](Pic/Screenshot_19.png)<br>
    
-Kalian bisa mengakses htmlnya dengan klik disamping [Click Here](lab6_css_framework/layout_sederhana.html) dan disamping untuk cssnya [Click Here](Lab6_css_framework/style.css)<br>
+Kalian bisa mengakses htmlnya dengan klik disamping [Click Here](lab6_css_framework/layout_sederhana.html) dan disamping untuk cssnya [Click Here](lab6_css_framework/style.css)<br>
 Berikut adalah hasil final dari tugas praktikum 6 Lab6Web<br>
 ![Screenshot_22.png](Pic/Screenshot_22.png)<br>
 
