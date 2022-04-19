@@ -42,7 +42,7 @@ Berikut adalah tugas praktikum 6 yang dimana kita menggunakan Twitter Bootstrap 
    ![Screenshot_14.png](Pic/Screenshot_14.png)<br>
 13. Setelah itu kita lanjutkan ke bagian sidebar, berikut adalah syntaxnya<br>
    ![Screenshot_17.png](Pic/Screenshot_17.png)<br>
-   Maka hasilnya adalah seperti berikut ini>br>
+   Maka hasilnya adalah seperti berikut ini<br>
    ![Screenshot_16.png](Pic/Screenshot_16.png)<br>
 14. Terakhir kita buat footernya dengan menggunakan card, berikut adalah syntaxnya<br>
    ![Screenshot_18.png](Pic/Screenshot_18.png)<br>
